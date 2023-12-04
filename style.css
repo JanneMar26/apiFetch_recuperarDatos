@@ -1,0 +1,31 @@
+
+  
+  .container {
+    margin-top: 20px; 
+  }
+  
+ 
+  .row {
+    border: 1px solid #dee2e6;
+    padding: 10px;
+    border-radius: 5px;
+  }
+ 
+  .col {
+    text-align: center;
+  }
+
+  h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  ul {
+    list-style: none; 
+    padding: 0;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+  }
